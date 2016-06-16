@@ -8,8 +8,9 @@
 
 2. Visual Studio 2015 설치 ([Visual Studio 2015 Community Edition 설치](https://www.visualstudio.com/ko-kr/products/visual-studio-community-vs.aspx))<br>
    Visual Studio 설치 시 사용자 정의 설치를 선택하고 반드시 Universal Windows App Development Tool 옵션을 선택해 주세요.
-   ![/images/Setup_Universal_Windows_App_Development_Tool.jpg](./images/Setup_Universal_Windows_App_Development_Tool.jpg)<br>
-   Universal Windows App Development Tool Option  
+   ![Universal Windows App Development Tool Option](https://github.com/KoreaEva/IoT/blob/master/images/Setup_Universal_Windows_App_Development_Tool.JPG)
+   <br>
+     
 
 3. Azure SDK & Tools ([https://www.visualstudio.com/ko-kr/features/azure-tools-vs.aspx](https://www.visualstudio.com/ko-kr/features/azure-tools-vs.aspx))
 
