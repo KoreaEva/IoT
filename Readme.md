@@ -1,4 +1,4 @@
-﻿IoT Camp를 위한 준비 과정을 공유하기 위한 과정입니다. 
+﻿IoT Camp를 위한 준비 과정을 공유하기 위한 페이지 입니다. 
 
 #실습 준비 과정
 
@@ -7,7 +7,7 @@
 1. Windows 10 이 설치 된 PC ([Windows 10 업그레이드 안내](https://www.microsoft.com/ko-kr/windows/windows-10-upgrade))
 
 2. Visual Studio 2015 설치 ([Visual Studio 2015 Community Edition 설치](https://www.visualstudio.com/ko-kr/products/visual-studio-community-vs.aspx))<br>
-   Visual Studio 설치 시 사용자 정의 설치를 선택하고 반드시 Universal Windows App Development Tool 옵션을 선택해 주세요.
+   Visual Studio 설치 시 사용자 정의 설치를 선택하고 반드시 Universal Windows App Development Tool 옵션을 선택해 주세요.<br>
    ![Universal Windows App Development Tool Option](https://github.com/KoreaEva/IoT/blob/master/images/Setup_Universal_Windows_App_Development_Tool.JPG)
    <br>
      
