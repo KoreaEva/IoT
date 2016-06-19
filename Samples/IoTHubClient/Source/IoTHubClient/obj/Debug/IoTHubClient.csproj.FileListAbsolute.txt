@@ -1,0 +1,150 @@
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\IoTHubClient.exe.config
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\IoTHubClient.exe
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\IoTHubClient.pdb
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\DotNetty.Buffers.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\DotNetty.Codecs.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\DotNetty.Codecs.Mqtt.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\DotNetty.Common.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\DotNetty.Handlers.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\DotNetty.Transport.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Azure.Amqp.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Azure.Devices.Client.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Data.Edm.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Data.OData.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Data.Services.Client.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Mono.Security.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\PCLCrypto.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\System.Spatial.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Validation.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Azure.Amqp.xml
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Data.Edm.xml
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Data.OData.xml
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Data.Services.Client.xml
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\PCLCrypto.xml
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\System.Spatial.xml
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\Validation.xml
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\de\Microsoft.Data.OData.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\es\Microsoft.Data.OData.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\it\Microsoft.Data.OData.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\de\System.Spatial.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\es\System.Spatial.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\fr\System.Spatial.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\it\System.Spatial.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\ja\System.Spatial.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\ko\System.Spatial.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\ru\System.Spatial.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\zh-Hans\System.Spatial.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\bin\Debug\zh-Hant\System.Spatial.resources.dll
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\obj\Debug\IoTHubClient.exe
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\obj\Debug\IoTHubClient.pdb
+c:\users\young\documents\visual studio 2015\Projects\IoTHubClient\IoTHubClient\obj\Debug\IoTHubClient.csprojResolveAssemblyReference.cache
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\IoTHubClient.exe.config
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\obj\Debug\IoTHubClient.exe
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\obj\Debug\IoTHubClient.pdb
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\IoTHubClient.exe
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\IoTHubClient.pdb
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\DotNetty.Buffers.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\DotNetty.Codecs.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\DotNetty.Common.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\DotNetty.Handlers.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\DotNetty.Transport.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Mono.Security.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\PCLCrypto.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\System.Spatial.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Validation.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\PCLCrypto.xml
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\System.Spatial.xml
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\Validation.xml
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\young\Documents\GitHub\IoT\Samples\IoTHubClient\Source\IoTHubClient\obj\Debug\IoTHubClient.csprojResolveAssemblyReference.cache
