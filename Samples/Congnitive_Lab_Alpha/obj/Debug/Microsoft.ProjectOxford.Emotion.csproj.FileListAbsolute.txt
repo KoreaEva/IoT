@@ -1,0 +1,15 @@
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\bin\Debug\Microsoft.ProjectOxford.Emotion.dll.config
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\bin\Debug\Microsoft.ProjectOxford.Emotion.pdb
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\bin\Debug\System.Net.Http.dll
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\bin\Debug\System.Net.Http.xml
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\obj\Debug\Microsoft.ProjectOxford.Emotion.csproj.App.config
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\obj\Debug\Microsoft.ProjectOxford.Emotion.csprojResolveAssemblyReference.cache
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\obj\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\obj\Debug\Microsoft.ProjectOxford.Emotion.pdb

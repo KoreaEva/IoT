@@ -1,0 +1,7 @@
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\HappyEmotion\HappyEmotion.csproj;arm
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\HappyModel\HappyModel.csproj;arm
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\HappyModel\HappyModel.csproj;arm
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\HappyTestClient\HappyTestClient.csproj;arm
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\Microsoft.ProjectOxford.Emotion.csproj;neutral
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\Microsoft.ProjectOxford.Emotion.csproj;neutral
+C:\Users\yowkim\Documents\Git\HappyStore\EmotionLib\Microsoft.ProjectOxford.Emotion.csproj;neutral
