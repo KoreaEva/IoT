@@ -4,7 +4,7 @@
 
 # Labs
 
-1. 개발 환경 구성 ([https://github.com/koreaeva/IoT/Labs/IoT_Hub/1.Prepare Lab.md](https://github.com/koreaeva/IoT/Labs/IoT_Hub/1.Prepare_Lab.md))
+1. 개발 환경 구성 ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/1.Prepare_Lab.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/1.Prepare_Lab.md))
 2. IoT Hub Setting.
 3. Device Programming.
 4. Stream Analystics 연결.
