@@ -4,8 +4,10 @@
 
 # Labs
 
-1. 개발 환경 구성 ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/1.Prepare_Lab.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/1.Prepare_Lab.md))
-2. IoT Hub Setting.
+1. 개발 환경 구성 <br>
+   ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/1.Prepare_Lab.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/1.Prepare_Lab.md))
+2. IoT Hub Setting.<br>
+   ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/1.Prepare_Lab.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/2.IoT_Hub_Setting.md))
 3. Device Programming.
 4. Stream Analystics 연결.
 5. SQL Azure에 통계 데이터 전송하기. 
