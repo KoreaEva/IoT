@@ -10,9 +10,7 @@
    ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/2.IoT_Hub_Setting.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/2.IoT_Hub_Setting.md))
 3. Device Programming.<br>
    ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/3.Device_Programming.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/3.Device_Programming.md))
-
 4. Stream Analystics 연결.
+   ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/4.Stream_Analytics.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/4.Stream_Analytics.md))
 5. SQL Azure에 통계 데이터 전송하기. 
 6. Power BI로 Dashboard 제작하기.
-
- 
