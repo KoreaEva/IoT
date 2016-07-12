@@ -8,8 +8,10 @@
    ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/1.Prepare_Lab.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/1.Prepare_Lab.md))
 2. IoT Hub Setting.<br>
    ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/2.IoT_Hub_Setting.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/2.IoT_Hub_Setting.md))
-3. Device Programming.<br>
+3. Device Programming. .NET Console Version<br>
    ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/3.Device_Programming.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/3.Device_Programming.md))
+3-1. Device Programming. Rasbrian Version<br>
+   ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/3-1.Device_Programming%20-%20Raspbrian.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/3-1.Device_Programming%20-%20Raspbrian.md))
 4. Stream Analystics 연결.<br>
    ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/4.Stream_Analytics.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/4.Stream_Analytics.md))
 5. SQL Azure에 통계 데이터 전송하기. <br>
