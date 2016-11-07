@@ -14,6 +14,7 @@
    ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/3-1.Device_Programming%20-%20Raspbrian.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/3-1.Device_Programming%20-%20Raspbrian.md))
 3-2. Device Programming. Python Code 작성하기<br>
     ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/3-2.Device_Programming%20-%20Python.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/3-2.Device_Programming%20-%20Python.md))
+3-3. Device Programming - Cognitive<br>
 4. Stream Analystics 연결.<br>
    ([https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/4.Stream_Analytics.md](https://github.com/KoreaEva/IoT/blob/master/Labs/IoT_Hub/4.Stream_Analytics.md))
 5. SQL Azure에 통계 데이터 전송하기. <br>
