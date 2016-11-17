@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Microsoft.Azure.Devices.Client" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Microsoft.Azure.Devices.Client">
+			<ResourceMapSubtree name="Resources">
+				<NamedResource name="ActionItemIsAlreadyScheduled" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/ActionItemIsAlreadyScheduled">
+					<Candidate type="String">
+						<Value>The ActionItem was scheduled for execution but has not completed yet.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ArgumentNullOrEmpty" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/ArgumentNullOrEmpty">
+					<Candidate type="String">
+						<Value>The argument {0} is null or empty.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ArgumentNullOrWhiteSpace" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/ArgumentNullOrWhiteSpace">
+					<Candidate type="String">
+						<Value>The argument {0} is null or white space.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ArgumentOutOfRange" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/ArgumentOutOfRange">
+					<Candidate type="String">
+						<Value>The value supplied must be between {0} and {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AsyncCallbackThrewException" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/AsyncCallbackThrewException">
+					<Candidate type="String">
+						<Value>An AsyncCallback threw an exception.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AsyncResultAlreadyEnded" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/AsyncResultAlreadyEnded">
+					<Candidate type="String">
+						<Value>End cannot be called twice on the same AsyncResult.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AsyncResultCompletedTwice" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/AsyncResultCompletedTwice">
+					<Candidate type="String">
+						<Value>The IAsyncResult implementation '{0}' tried to complete a single operation multiple times. This could be caused by an incorrect application of IAsyncResult implementation or other extensibility code, such as an IAsyncResult that returns incorrect CompletedSynchronously values, or invokes the AsyncCallback multiple times.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AsyncTransactionException" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/AsyncTransactionException">
+					<Candidate type="String">
+						<Value>An exception was thrown from a TransactionScope used to flow a transaction into an asynchronous operation.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BufferAllocationFailed" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/BufferAllocationFailed">
+					<Candidate type="String">
+						<Value>Failed to allocate a managed memory buffer of {0} bytes. The amount of available memory may be low.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BufferAlreadyReclaimed" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/BufferAlreadyReclaimed">
+					<Candidate type="String">
+						<Value>The buffer has already been reclaimed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BufferIsNotRightSizeForBufferManager" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/BufferIsNotRightSizeForBufferManager">
+					<Candidate type="String">
+						<Value>This buffer cannot be returned to the buffer manager because it is the wrong size.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FailedToSerializeUnsupportedType" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/FailedToSerializeUnsupportedType">
+					<Candidate type="String">
+						<Value>Serialization operation failed due to unsupported type {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FailFastMessage" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/FailFastMessage">
+					<Candidate type="String">
+						<Value>An unrecoverable error occurred. For diagnostic purposes, this English message is associated with the failure: '{0}'.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAsyncResult" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/InvalidAsyncResult">
+					<Candidate type="String">
+						<Value>The AsyncResult object used to end this operation was not the object that was returned when the operation was initiated.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAsyncResultImplementation" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/InvalidAsyncResultImplementation">
+					<Candidate type="String">
+						<Value>An incorrect implementation of the IAsyncResult interface may be returning incorrect values from the CompletedSynchronously property or calling the AsyncCallback more than once. The type {0} could be the incorrect implementation.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAsyncResultImplementationGeneric" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/InvalidAsyncResultImplementationGeneric">
+					<Candidate type="String">
+						<Value>An incorrect implementation of the IAsyncResult interface may be returning incorrect values from the CompletedSynchronously property or calling the AsyncCallback more than once.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidBufferSize" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/InvalidBufferSize">
+					<Candidate type="String">
+						<Value>The buffer size is invalid.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidNullAsyncResult" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/InvalidNullAsyncResult">
+					<Candidate type="String">
+						<Value>A null value was returned from an asynchronous 'Begin' method or passed to an AsyncCallback. Asynchronous 'Begin' implementations must return a non-null IAsyncResult and pass the same IAsyncResult object as the parameter to the AsyncCallback.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidSemaphoreExit" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/InvalidSemaphoreExit">
+					<Candidate type="String">
+						<Value>Object synchronization method was called from an unsynchronized block of code.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IOThreadTimerCannotAcceptMaxTimeSpan" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/IOThreadTimerCannotAcceptMaxTimeSpan">
+					<Candidate type="String">
+						<Value>IOThreadTimer cannot accept Timespan.MaxValue.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ObjectIsReadOnly" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/ObjectIsReadOnly">
+					<Candidate type="String">
+						<Value>This object is read-only and cannot be modified.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ShipAssertExceptionMessage" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/ShipAssertExceptionMessage">
+					<Candidate type="String">
+						<Value>An unexpected failure occurred. Applications should not attempt to handle this error. For diagnostic purposes, this English message is associated with the failure: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StringIsNotBase64" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/StringIsNotBase64">
+					<Candidate type="String">
+						<Value>'{0}' is not a valid Base64 encoded string.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TimeoutMustBeNonNegative" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/TimeoutMustBeNonNegative">
+					<Candidate type="String">
+						<Value>Argument {0} must be a non-negative timeout value. The provided value was {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TimeoutMustBePositive" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/TimeoutMustBePositive">
+					<Candidate type="String">
+						<Value>Argument {0} must be a positive timeout value. The provided value was {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UserErrorFormat" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/UserErrorFormat">
+					<Candidate type="String">
+						<Value>{0} If you contact a support representative please include this correlation identifier: {1}, timestamp: {2:u}, errorcode: DG{3}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ValueMustBeNonNegative" uri="ms-resource://Microsoft.Azure.Devices.Client/Microsoft.Azure.Devices.Client/Resources/ValueMustBeNonNegative">
+					<Candidate type="String">
+						<Value>The value of this argument must be non-negative.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
