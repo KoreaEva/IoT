@@ -10,19 +10,19 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>989210c4-b319-43c9-98a8-6e8ddbc645ef</PackageIdentityName>
     <PackageIdentityPublisher>CN=young</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\bin\x86\Debug\CognitiveClient.exe">
+    <AppxPackagedFile Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\bin\x86\Debug\CognitiveClient.exe">
       <PackagePath>entrypoint\CognitiveClient.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\young\.nuget\packages\Microsoft.AspNet.WebApi.Client\5.2.3\lib\portable-wp8+netcore45+net45+wp81+wpa81\System.Net.Http.Formatting.dll">
@@ -397,47 +397,47 @@
     <AppxPackagedFile Include="C:\Users\young\.nuget\packages\Microsoft.Azure.Devices.Client\1.0.21\lib\uap10.0\Microsoft.Azure.Devices.Client.winmd">
       <PackagePath>Microsoft.Azure.Devices.Client.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\bin\x86\Debug\CognitiveClient.xr.xml">
+    <AppxPackagedFile Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\bin\x86\Debug\CognitiveClient.xr.xml">
       <PackagePath>CognitiveClient.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\bin\x86\Debug\Core\CognitiveClient.exe">
+    <AppxPackagedFile Include="C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\bin\x86\Debug\Core\CognitiveClient.exe">
       <PackagePath>CognitiveClient.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

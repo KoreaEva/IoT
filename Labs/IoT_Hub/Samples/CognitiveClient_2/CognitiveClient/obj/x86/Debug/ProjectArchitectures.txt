@@ -1,1 +1,1 @@
-C:\Users\young\Documents\Visual Studio 2015\Projects\CognitiveClient\CognitiveClient\CognitiveClient.csproj;x86
+C:\Users\young\Documents\GitHub\IoT\Labs\IoT_Hub\Samples\CognitiveClient_2\CognitiveClient\CognitiveClient.csproj;x86

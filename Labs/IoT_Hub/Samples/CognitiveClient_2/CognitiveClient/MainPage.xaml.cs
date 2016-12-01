@@ -152,6 +152,10 @@ namespace CognitiveClient
 
             EmotionEntity[] emotions = new EmotionEntity[emotionResult.Count()];
 
+            float totalHappiness = 0;
+            float totalSadness = 0;
+            stackResult.Children.Clear();
+
             for(int i=0;i<emotionResult.Count();i++)
             {
                 EmotionEntity emotionEntity = new EmotionEntity();
@@ -164,6 +168,9 @@ namespace CognitiveClient
                 emotionEntity.Neutral = emotionResult[i].Scores.Neutral * 100;
                 emotionEntity.Sadness = emotionResult[i].Scores.Sadness * 100;
                 emotionEntity.Surprise = emotionResult[i].Scores.Surprise * 100;
+
+                totalHappiness += emotionEntity.Happiness;
+                totalSadness += emotionEntity.Sadness;
 
                 TextBlock textblock = new TextBlock();
 
@@ -182,16 +189,22 @@ namespace CognitiveClient
                 stackResult.Children.Add(textblock);
 
                 string json = JsonConvert.SerializeObject(emotionEntity);
-                SendMessage(json);
+                //SendMessage(json);
 
                 emotions[i] = emotionEntity;
             }
+
+            float avgHappiness = totalHappiness / emotionResult.Count();
+            float avgSadness = totalSadness / emotionResult.Count();
+
+            lblGroupResult.Text = String.Format(" 행복지수는 {0} 이며\n 슬픔지수는 {1} 입니다.", avgHappiness, avgSadness);
+            //lblGroupResult.Text = String.Format(" {0}명의 사람의 행복지수는 {1} 이며\n 슬픔지수는 {2} 입니다.", emotionResult.Count(), avgHappiness, avgSadness);
         }
 
-        private async void SendMessage(string message)
-        {
-            Message eventMessage = new Message(Encoding.UTF8.GetBytes(message));
-            await SensorDevice.SendEventAsync(eventMessage);
-        }
+        //private async void SendMessage(string message)
+        //{
+        //    Message eventMessage = new Message(Encoding.UTF8.GetBytes(message));
+        //    await SensorDevice.SendEventAsync(eventMessage);
+        //}
     }
 }

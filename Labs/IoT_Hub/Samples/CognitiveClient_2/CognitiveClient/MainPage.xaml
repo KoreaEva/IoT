@@ -10,14 +10,16 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
             <StackPanel Orientation="Horizontal">
-                <CaptureElement Name="CapPreview" Width="400" Height="400" Stretch="Uniform"/>
-                <Image x:Name="imageControl" Width="400" Height="400"/>
+                <CaptureElement Name="CapPreview" Width="700" Height="500" Stretch="Uniform"/>
+                <Image x:Name="imageControl" Width="700" Height="500"/>
             </StackPanel>
-            <Button Name="btnTakeaPhoto" Content="Take a Photo" HorizontalAlignment="Center" Click="btnTakeaPhoto_Click"/>
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+                <Button Name="btnTakeaPhoto" Content="Take a Photo" HorizontalAlignment="Center" Click="btnTakeaPhoto_Click"/>
+                <TextBlock Name="lblGroupResult" FontSize="40" FontWeight="ExtraBold"/>
+            </StackPanel>
             <StackPanel Name="stackResult" Orientation="Horizontal" Height="300">
-                
+
             </StackPanel>
-            <TextBlock Name="txtStatus" Text="........"/>
         </StackPanel>
     </Grid>
 </Page>
